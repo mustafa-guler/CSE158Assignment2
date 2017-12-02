@@ -1,1 +1,2 @@
-data/PythonStackOverflow*
+*.xml*
+*.json*
